@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "993099316093",
+    "project_id": "quranquotes-c4f57",
+    "storage_bucket": "quranquotes-c4f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993099316093:android:ee082d2407f1a5d3946a14",
+        "android_client_info": {
+          "package_name": "com.shatfi.mydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993099316093-i75dpbdvjo8hcrira6g0dtphsqq3bi83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh1M4ccfZ1J7TxtKtWFEvz16G-1H1eunI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993099316093-i75dpbdvjo8hcrira6g0dtphsqq3bi83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993099316093:android:e101aa04d3492cb7946a14",
+        "android_client_info": {
+          "package_name": "com.shatfi.quranquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993099316093-i75dpbdvjo8hcrira6g0dtphsqq3bi83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh1M4ccfZ1J7TxtKtWFEvz16G-1H1eunI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993099316093-i75dpbdvjo8hcrira6g0dtphsqq3bi83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
